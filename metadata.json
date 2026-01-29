@@ -1,0 +1,8 @@
+
+{
+  "name": "Lumina Hospital Management System",
+  "description": "A premium, modern healthcare management dashboard featuring patient registration, doctor scheduling, inventory tracking, and appointment booking with a calm lavender and deep plum aesthetic.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
