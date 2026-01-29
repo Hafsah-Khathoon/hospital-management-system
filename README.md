@@ -1,20 +1,35 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🏥 Hospital Management System – SDP Assignment
 
-# Run and deploy your AI Studio app
+## 📌 Project Description
+This project is a **Hospital Management System website** developed using **HTML, CSS, and JavaScript** as part of the **SDP Assignment**. It demonstrates core frontend web development concepts through a real-world hospital scenario.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/temp/1
+## 🛠 Technologies Used
+- HTML
+- CSS
+- JavaScript
 
-## Run Locally
+---
 
-**Prerequisites:**  Node.js
+## ✅ Features
+- 🏠 Home page with navigation bar, logo, and banner  
+- 📝 Patient registration form with input validation  
+- 👨‍⚕️ Doctor schedule displayed in a table  
+- 📅 Appointment booking with date & time picker  
+- 🧩 Responsive services page using CSS Grid/Flexbox  
+- 🔍 Doctor search by specialization (JavaScript)  
+- 📍 Contact page with Google Maps integration  
+- 💊 Medicine inventory with sorting functionality  
+- 🔐 Staff login page with validation  
+- ⭐ Patient feedback form with star rating  
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## ▶️ How to Run
+- Open `index.html` in any web browser  
+**OR**  
+- Run using npm:
+```bash
+npm run dev
+
